@@ -1,0 +1,80 @@
+{
+
+    "appTitle": "snapchat",   "api": "API",
+    "login": "Войти",
+    "users": "Пользователи",
+    "signUp": "Зарегистрироваться",
+    "bdayPageTitle": "Ваш день рождения",
+    "bdayFieldLabel": "Дата рождения",
+    "cntButtonLabel": "Продолжить",
+    "unacceptableAgeMsg": "Извините, похоже, вы не м права на Snapchat ... но спасибо, что зашли к нам!",
+    "emailPageTitle": "Ваша почта",
+    "emailFieldLabel": "Почта",
+    "emailLinkLabel": "Регистрация по номеру телефона",
+    "invalidEmailMsg": "Недействительный адрес электронной почты",
+    "usedEmailMsg": "Эта почта уже связана с другим аккаунтом.",
+    "loginPageTitle": "What's your email address?",
+  
+    "usrnameOrEmailFieldLabel": "Имя пользователя или почта",
+    "passwordFieldLabel": "Пароль",
+    "delete account":"удалить аккаунт",
+    "loginLinkLabel": "Забыли пароль?",
+  
+    "usrnameIncorrectMsg": "Ой! Ваше имя пользователя, почта или пароль указаны неверно.",
+    "offlineMsg": "Проверьте подключение к Интернету и попробуйте ещё раз!",
+  
+    "passwordPageTitle": "Придумайте пароль",
+    "passwordPageSubtitle": "Пароль должен быть короче 8 символов.",
+    "shortPasswordMsg": "Пароль не может быть короче 8 символов.",
+  
+  
+    "usrnamePageTitle" : "Имя пользователя",
+    "usrnamePageSubTitle": "Друзья смогут найти вас в snapchat по имени пользователя.",
+    "usrnameFieldLabel" : "Имя пользователя",
+    
+  
+     "checkMsg"  :"Проверяю",
+     "logging"  :"Вход в систему",
+  
+     "hide"  :"Скрыть",
+     "show"  :"Показать",
+  
+     "aviableMsg" : "Имя пользователя свободно",
+     "notAviableMsg": "Имя пользователя уже занято!",
+     "takenMsg": " сейчас недоступно!",
+     "takenMsgFull": "Имя пользователя уже занято!",
+     "shortUsernameMsg"  :"Упс! Имя пользователя не может быть короче 8 символов.",
+  
+    "signUpBtn": "Зарегистрироваться и принять",
+    "signupPageTitle": "Ваше имя",
+    "fnameFieldLabel" : "Имя",
+    "lnameFieldLabel":  "Фамилия",
+    "emptyFnameMsg":  "Введите имя",
+    "emptyLnameMsg":  "Введите фамилию",
+  
+    "toHomePageBtn": "Вернуться на домашнюю страницу",
+  
+    "phoneNumberFieldLabel": "Номер телефона",
+    "phoneNumberPageTitle" : "What's your mobile number?",
+    "phoneNumberLinkLabel": "Sign up with email instead",
+  
+    
+  "notificationMsg":"Мы отправим код подтверждения в SMS.",
+  "search":"Поиск",
+  
+  
+  "linkSubSentence1":"Нажимая 'Зарегистрироваться и принять' вы подтверждаете что прочитали ",
+  "linkSubSentence2":"Политику конфиденциальности",
+  "linkSubSentence3":" и согласны с ",
+  "linkSubSentence4":"Условиями оказания услуг",
+  "linkSubSentence5":".",
+  
+  "invalidPhoneNumberMsg": "Недействительный номер мобильного телефона",
+  "usedPhoneNumberMsg": "Этот номер мобильного телефона уже используется",
+  "logoutBtn": "Выйти",
+  "edit": "Редактировать",
+
+  "updateSuccessMsg":"Информация успешно обновлена!",
+  "undo":"Закрыть",
+  "":""
+  }

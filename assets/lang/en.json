@@ -1,0 +1,76 @@
+{
+
+    "appTitle": "snapchat","api": "API",
+    "login": "Log In",
+    "users": "Users",
+    "signUp": "Sign up",
+    "bdayPageTitle": "When's your birthday?",
+    "bdayFieldLabel": "Birthday",
+    "cntButtonLabel": "Continue",
+    "unacceptableAgeMsg": "Sorry, looks like you're not eligible for Snapchat... but thanks for checking us out!",
+    "emailPageTitle": "What's your email address?",
+    "emailFieldLabel": "Email",
+    "emailLinkLabel": "Sign up with phone number instead",
+    "invalidEmailMsg": "Not valid email",
+    "usedEmailMsg": "This email already used",
+    "loginPageTitle": "What's your email address?",
+    "usrnameOrEmailFieldLabel": "Username or email",
+    "passwordFieldLabel": "Password",
+    "loginLinkLabel": "Forgot your password?",
+    "usrnameIncorrectMsg": "Oops! Your username/email or password is incorrect",
+    "offlineMsg": "Internet connection offline. Please try again.",
+  
+    "passwordPageTitle": "Set a password",
+    "passwordPageSubtitle": "Your password should be at least 8 characters.",
+    "shortPasswordMsg": "Your password should be at least 8 characters.",
+  
+  
+    "usrnamePageTitle" : "Peek a username",
+    "usrnamePageSubTitle": "Your username is how friends add you on Snapchat.",
+    "usrnameFieldLabel" : "Username",
+    
+  
+     "checkMsg"  :"Checking...",
+     "logging"  :"Logging In",
+  
+     "aviableMsg" : "Username avialble",
+     "takenMsg": " is already taken!",
+     "takenMsgFull": "Username is already taken!",
+     "notAviableMsg": "Username is already taken!",
+     "shortUsernameMsg"  :"Uh oh! Usernames must be at least 3 characters",
+  
+    "signUpBtn": "Sing Up & Accept",
+    "signupPageTitle": "What's your name?",
+    "fnameFieldLabel" : "First name",
+    "lnameFieldLabel":  "Last name",
+    "emptyFnameMsg":  "Empty First Name",
+    "emptyLnameMsg":  "Empty Last Name",
+  
+    "toHomePageBtn": "Go to home page",
+  
+    "phoneNumberFieldLabel": "Mobile number",
+    "phoneNumberPageTitle" : "What's your mobile number?",
+    "phoneNumberLinkLabel": "Sign up with email instead",
+    "delete account":"Delete account",
+  
+    
+  "notificationMsg":"We'll send you an SMS verification code.",
+  "search":"Search",
+  "hide"  :"Hide",
+  "show"  :"Show",
+  
+  "linkSubSentence1":"By tapping Sign Up & Accept, you acknowledge that you have read the ",
+  "linkSubSentence2":"Privacy Policy",
+  "linkSubSentence3":" and agree to the ",
+  "linkSubSentence4":"Tearms of Service",
+  "linkSubSentence5":".",
+  
+  "invalidPhoneNumberMsg": "Not valid mobile number",
+  "usedPhoneNumberMsg": "This mobile number already used",
+  "logoutBtn": "Log out",
+  "edit": "Edit",
+  "updateSuccessMsg":"The information was updated successfully.",
+  "undo":"Undo",
+  "":""
+    
+  }

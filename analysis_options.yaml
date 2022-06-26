@@ -1,0 +1,17 @@
+include: package:lint/analysis_options.yaml
+
+linter: 
+  rules:
+    - parameter_assignments
+    - sort_constructors_first
+
+analyzer:
+  errors:
+    import_of_legacy_library_into_null_safe: ignore
+    missing_required_param: error
+    parameter_assignments: error
+    missing_return: error
+  strong-mode:
+      implicit-casts: true
+
+
